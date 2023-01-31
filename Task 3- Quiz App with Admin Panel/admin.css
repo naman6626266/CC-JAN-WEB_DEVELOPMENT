@@ -1,0 +1,9 @@
+.addbtn{
+    height: 3rem;
+    background-color: blue;
+}
+.delbtn{
+    height: 3rem;
+    background-color: blue;
+    margin-left:6rem;
+}
